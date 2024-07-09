@@ -2,7 +2,7 @@
     border: none;
     color: black;
     background-color: ghostwhite;
-    transition: 2s;
+    transition: 2s ease-in-out;
 
 }
 
